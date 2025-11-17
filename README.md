@@ -107,7 +107,7 @@ To run an instance:
 
 <p>If you use this material, please cite:</p>
 
-<pre><code>@article{OptimizingWeakOrders2025,
+<pre><code>@article{landete2025optimizing,
   title   = {Optimizing Weak Orders via MILP},
   author  = {Aledo, Juan A and Dom{\'i}nguez, Concepci{\'o}n and Jaime-Alc{'a}ntara, Juan de Dios and Landete, Mercedes},
   journal = {to appear},
