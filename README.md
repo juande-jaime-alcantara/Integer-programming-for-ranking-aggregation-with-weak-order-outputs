@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<h1>Optimizing Weak Orders via MILP — Supporting Material</h1>
+<h1>Optimizing Weak Orders via Integer Linear Programming — Supporting Material</h1>
 
 <p>This repository provides the supplementary material for the article:</p>
 
-<p><strong><em>“Optimizing Weak Orders via MILP”</em></strong></p>
+<p><strong><em>“Optimizing Weak Orders via Integer Linear Programming”</em></strong></p>
 
 <p><strong>Authors</strong><br>
 Juan A. Aledo – Universidad de Castilla-La Mancha (UCLM), Spain<br>
