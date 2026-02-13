@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<h1>Optimizing Weak Orders via Mixed Integer Linear Programming — Supporting Material</h1>
+<h1>Integer programming for ranking aggregation with weak order outputs — Supporting Material</h1>
 
 <p>This repository provides the supplementary material for the article:</p>
 
-<p><strong><em>“Optimizing Weak Orders via Mixed Integer Linear Programming”</em></strong></p>
+<p><strong><em>“Integer programming for ranking aggregation with weak order outputs”</em></strong></p>
 
 <p><strong>Authors</strong><br>
 Juan de Dios Jaime-Alcántara – Universidad Miguel Hernández de Elche (UMH), Spain<br>
