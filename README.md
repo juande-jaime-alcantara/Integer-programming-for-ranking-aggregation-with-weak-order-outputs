@@ -8,10 +8,10 @@
 <p><strong><em>“Optimizing Weak Orders via Integer Linear Programming”</em></strong></p>
 
 <p><strong>Authors</strong><br>
-Juan A. Aledo – Universidad de Castilla-La Mancha (UCLM), Spain<br>
-Concepción Domínguez – Universidad de Murcia (UM), Spain<br>
 Juan de Dios Jaime-Alcántara – Universidad Miguel Hernández de Elche (UMH), Spain<br>
 Mercedes Landete – Universidad Miguel Hernández de Elche (UMH), Spain
+Concepción Domínguez – Universidad de Murcia (UM), Spain<br>
+Juan A. Aledo – Universidad de Castilla-La Mancha (UCLM), Spain<br>
 </p>
 
 <hr>
